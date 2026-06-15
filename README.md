@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 I AM INDRAJEET PAKHARE STUDENT OF B.Tech. graduate in COMPUTER SCIENCE AND ENGINEERING specializing in Java Full Stack Development 🤖<br>Core Languages: Java (OOPs, <br>Collections, Exception Handling). <br>Web Technologies: HTML5, CSS3, <br>JavaScript <br>Frameworks & Framework <br>Concepts: Java Full Stack <br>Architecture, Spring Boot <br>(concepts) <br>Data Analysis & ML: Python <br>(Pandas, NumPy, Scikit-learn), <br>Statistical Analysis, Predictive <br>Modeling, Data Visualization <br> Developer Tools: Git, GitHub
+🤖 I AM INDRAJEET PAKHARE STUDENT OF B.Tech. graduate in COMPUTER SCIENCE AND ENGINEERING specializing in Java Full Stack Development 🤖
 
 
 ## 🌐 Socials:
